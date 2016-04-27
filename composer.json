@@ -1,8 +1,8 @@
 {
-  "name": "mouf/swift-mail-generator-interface",
-  "description": "This package contains the SwiftMailGenerator interface that can be used to create a swift mail instance.",
+  "name": "thecodingmachine/swift-mail-template-interface",
+  "description": "This package contains the SwiftMailTemplate interface that can be used to render a swift mail instance.",
   "keywords": ["swift", "mail", "interface"],
-  "homepage": "https://github.com/thecodingmachine/swift-mail-generator-interface",
+  "homepage": "https://github.com/thecodingmachine/swift-mail-template-interface",
   "type": "library",
   "license": "MIT",
   "authors": [
