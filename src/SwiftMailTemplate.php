@@ -1,6 +1,6 @@
 <?php
 
-namespace TheCodingMachine\Mail;
+namespace Mail\Swift\RendererInterface;
 
 interface SwiftMailTemplate
 {

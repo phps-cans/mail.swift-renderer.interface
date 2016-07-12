@@ -1,8 +1,8 @@
 {
-  "name": "thecodingmachine/swift-mail-template-interface",
-  "description": "This package contains the SwiftMailTemplate interface that can be used to render a swift mail instance.",
+  "name": "phps-cans/mail.swift.renderer-interface",
+  "description": "This package contains the SwiftMailRenderer interface that can be used to render a swift mail instance.",
   "keywords": ["swift", "mail", "interface"],
-  "homepage": "https://github.com/thecodingmachine/swift-mail-template-interface",
+  "homepage": "https://github.com/phps-cans/mail.swift.renderer-interface",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -13,13 +13,11 @@
   ],
   "autoload": {
     "psr-4": {
-      "TheCodingMachine\\Mail\\": "src"
+      "Mail\\Swift\\RedererInterface\\": "src"
     }
   },
-
   "require": {
     "php": ">=7.0.0",
     "swiftmailer/swiftmailer" : "~5.0"
-
   }
 }
